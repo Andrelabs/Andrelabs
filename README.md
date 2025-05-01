@@ -1,5 +1,5 @@
 - 👋 Hi, I’m André Camelo
-- 👀 I’m interested in ... Desenvolvimento Front End e Web Design,Ux e UI Design
+- 👀 I’m interested in ... Desenvolvimento de agentes de IA e treinamento de máquinas , machine learning , construções de app mobile e Web ,Ux e UI Design
 - 🌱 I’m currently learning ... Javascript, CSS, Boostrap , Angular,Vue.JS, React Native,typescript
 - 💞️ I’m looking to collaborate on ... projetos inovadores de desenhos e desenvolvimento de Site e aplicativo mobile
 - 📫 How to reach me ... 5561984501200
